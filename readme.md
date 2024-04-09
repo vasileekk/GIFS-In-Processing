@@ -1,23 +1,23 @@
-Collection of GIFs created using Processing.
+Collection of GIFs created using Processing.  
 I do not own the rights for these animations.
-Created for educational purposes.
-Gif 1:
-![gif1/1.gif](https://github.com/vasileekk/Processing-GIFS/blob/main/gif1/1.gif)
-Gif 2:
-![gif2/2.gif](https://github.com/vasileekk/Processing-GIFS/blob/main/gif2/2.gif)
-Gif 3:
-![gif3/3.gif](https://github.com/vasileekk/Processing-GIFS/blob/main/gif3/3.gif)
-Gif 4:
-![gif4/4.gif](https://github.com/vasileekk/Processing-GIFS/blob/main/gif4/4.gif)
-Gif 5:
-![gif5/5.gif](https://github.com/vasileekk/Processing-GIFS/blob/main/gif5/5.gif)
-Gif 6:
-![gif6/6.gif](https://github.com/vasileekk/Processing-GIFS/blob/main/gif6/6.gif)
-Gif 7:
-![gif7/7.gif](https://github.com/vasileekk/Processing-GIFS/blob/main/gif7/7.gif)
-Gif 8:
-![gif8/8.gif](https://github.com/vasileekk/Processing-GIFS/blob/main/gif8/8.gif)
-Gif 9:
-![gif9/9.gif](https://github.com/vasileekk/Processing-GIFS/blob/main/gif9/9.gif)
-Gif 10:
-![gif10/10.gif](https://github.com/vasileekk/Processing-GIFS/blob/main/gif10/10.gif)
+Created for educational purposes.  
+Gif 1:  
+<img src="gif1/1.gif" width="300" />  
+Gif 2:  
+<img src="gif2/2.gif" width="300" />  
+Gif 3:  
+<img src="gif3/3.gif" width="300" />  
+Gif 4:  
+<img src="gif4/4.gif" width="300" />  
+Gif 5:  
+<img src="gif5/5.gif" width="300" />  
+Gif 6:  
+<img src="gif6/6.gif" width="300" />  
+Gif 7:  
+<img src="gif7/7.gif" width="300" />  
+Gif 8:  
+<img src="gif8/8.gif" width="300" />  
+Gif 9:  
+<img src="gif9/9.gif" width="300" />  
+Gif 10:  
+<img src="gif10/10.gif" width="300" />  
