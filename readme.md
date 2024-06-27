@@ -15,7 +15,7 @@ Gif 9:
 <img src="gif9/9.gif" width="300" />  
 Gif 10:  
 <img src="gif10/10.gif" width="300" />  
-[Gif1]("gif1/1.gif")
-[Gif2]("gif2/2.gif")
-[Gif3]("gif3/3.gif")
+[Gif1](gif1/1.gif)
+[Gif2](gif2/2.gif)
+[Gif3](gif3/3.gif)
 for some reason these gifs done work embeded...
